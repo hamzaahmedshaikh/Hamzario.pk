@@ -1,0 +1,79 @@
+{
+  "info": {
+    "name": "Evelyn Portfolio API",
+    "_postman_id": "d8e6ca14-6804-47ea-8fbd-123456789abc",
+    "description": "API endpoints for full-stack MERN portfolio; auth via Firebase JWT",
+    "schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json"
+  },
+  "item": [
+    {
+      "name": "Auth Session",
+      "request": {
+        "url": "{{BASE_URL}}/api/v1/auth/session",
+        "method": "POST",
+        "body": {
+          "mode": "raw",
+          "raw": "{ \"firebaseToken\": \"\" }",
+          "options": { "raw": { "language": "json" } }
+        }
+      }
+    },
+    {
+      "name": "Get Projects",
+      "request": {
+        "url": "{{BASE_URL}}/api/v1/projects",
+        "method": "GET"
+      }
+    },
+    {
+      "name": "Create Project (Admin)",
+      "request": {
+        "url": "{{BASE_URL}}/api/v1/projects",
+        "method": "POST",
+        "body": {
+          "mode": "raw",
+          "raw": "{}",
+          "options": { "raw": { "language": "json" } }
+        }
+      }
+    },
+    {
+      "name": "Get Clients",
+      "request": {
+        "url": "{{BASE_URL}}/api/v1/clients",
+        "method": "GET"
+      }
+    },
+    {
+      "name": "Create Client (Admin)",
+      "request": {
+        "url": "{{BASE_URL}}/api/v1/clients",
+        "method": "POST",
+        "body": {
+          "mode": "raw",
+          "raw": "{}",
+          "options": { "raw": { "language": "json" } }
+        }
+      }
+    },
+    {
+      "name": "Get Testimonials",
+      "request": {
+        "url": "{{BASE_URL}}/api/v1/testimonials",
+        "method": "GET"
+      }
+    },
+    {
+      "name": "Contact Message",
+      "request": {
+        "url": "{{BASE_URL}}/api/v1/messages",
+        "method": "POST",
+        "body": {
+          "mode": "raw",
+          "raw": "{ \"name\": \"\", \"email\": \"\", \"message\": \"\" }",
+          "options": { "raw": { "language": "json" } }
+        }
+      }
+    }
+  ]
+}
