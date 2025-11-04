@@ -27,6 +27,14 @@ This is a personal portfolio website for Hamza Ahmed, a front-end web developer 
 - **Host**: Configured to bind to 0.0.0.0:5000 for Replit environment
 
 ## Recent Changes
+- **2025-11-04**: Portfolio content update
+  - Updated name to "Hamza Ahmed Shaikh"
+  - Changed title from "Front End Web Developer" to "Full Stack Web Developer"
+  - Updated About section to highlight MERN stack and Shopify expertise
+  - Updated skills section with modern tech stack (React/Next.js, Node.js, Express.js, MongoDB, Tailwind CSS, Git, Shopify, RESTful APIs)
+  - Updated social media links: Added GitHub, X (Twitter), Portfolio; Removed Facebook, Snapchat, Instagram, Upwork
+  - Updated resume link to Google Drive URL
+  
 - **2025-11-04**: Initial project import and setup for Replit environment
   - Created Python HTTP server with cache-busting headers
   - Configured workflow for automatic server startup
