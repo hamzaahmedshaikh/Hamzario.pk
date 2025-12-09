@@ -945,6 +945,7 @@ main {
   grid-template-columns: 1fr;
   gap: 30px;
   margin-bottom: 10px;
+  justify-items: center;
 }
 
 .project-item { display: none; }
