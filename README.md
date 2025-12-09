@@ -41,19 +41,24 @@ I'm a Full Stack Web Developer with over 4 years of experience creating visually
 
 ```
 Hamzario.pk/
-├── index.html          # Main portfolio page
-├── style.css           # Global styles
-├── script.js           # JavaScript functionality
-├── server.py           # Python HTTP server
-├── calculator/         # Calculator project
-├── Chess/              # Chess game project
-├── cube/               # 3D cube visualization
-├── login/              # Login interface
-├── music-player/       # Music player app
-├── solar/              # Solar system visualization
-├── tab-bar/            # Tab bar component
-├── tower-blocks/       # Tower blocks game
-└── scroll/             # Scroll effect demo
+├── index.html                 # Main portfolio page
+├── style.css                  # Global styles
+├── script.js                  # JavaScript functionality
+├── server.py                  # Python HTTP server
+├── calculator/                # Calculator project
+├── Chess/                     # Chess game project
+├── cube/                      # 3D cube visualization
+├── login/                     # Login interface
+├── music-player/              # Music player app
+├── solar/                     # Solar system visualization
+├── tab-bar/                   # Tab bar component
+├── tower-blocks/              # Tower blocks game
+├── scroll/                    # Scroll effect demo
+├── quiz-web-based-app/        # Quiz Web App
+├── food-menu-app/             # Food Menu App
+├── student-id-card/           # Student ID Card Generator
+└── show-data-in-cards/        # Data Display Cards App
+
 ```
 
 ## 🚀 Getting Started
@@ -116,9 +121,6 @@ The portfolio is fully responsive and optimized for:
 - **Phone**: +92 (315) 343-7122
 - **Location**: Karachi, Pakistan
 
-## 📄 License
-
-This project is open source and available under the [MIT License](LICENSE).
 
 ## 🙏 Acknowledgments
 
