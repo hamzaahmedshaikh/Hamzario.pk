@@ -964,7 +964,7 @@ main {
 .project-img {
   position: relative;
   width: 100%;
-  height: 200px;
+  height: 250px;
   border-radius: 16px;
   overflow: hidden;
   margin-bottom: 15px;
@@ -1252,10 +1252,9 @@ textarea.form-input::-webkit-resizer { display: none; }
 
 
   /**
-   * #PORTFOLIO, BLOG 
+   * #PORTFOLIO, BLOG
    */
 
-  .project-img,
   .blog-banner-box { height: auto; }
 
 }
