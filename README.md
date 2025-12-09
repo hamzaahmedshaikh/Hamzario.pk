@@ -133,4 +133,4 @@ The portfolio is fully responsive and optimized for:
 
 **Built with ❤️ by Hamza Ahmed Shaikh**
 
-*Last Updated: November 2025*
+*Last Updated: December 2025*
