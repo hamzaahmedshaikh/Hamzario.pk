@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <link rel="stylesheet" href="styles.css">
+  <title>Student ID Card</title>
+
+</head>
+<body>
+  <button id="startBtn" onclick="GenerateCard()">Enter Details</button>
+  <label for="upload">Upload Picture</label>
+  <input type="file" id="upload" accept="image/*" onchange="uploadImage(event)" />
+
+  <div id="student_id" class="student_id">
+    <div class="top_section">
+      <div class="profile_photo">
+        <img id="profilePhoto" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Arnold_Schwarzenegger_by_Gage_Skidmore_4.jpg/220px-Arnold_Schwarzenegger_by_Gage_Skidmore_4.jpg" alt="Profile Photo">
+      </div>
+      <div class="student_name">
+        <ul class="student_info">
+          <li id="name" class="name">John Doe</li>
+          <li id="age" class="age"><span class="bold">Age:</span> <span class="value">20</span></li>
+        </ul>
+      </div>
+    </div>
+
+    <div class="bottom_section">
+      <div class="student_details">
+        <ul>
+          <li id="ID"><span class="bold">ID:</span> <span class="value">525710</span></li>
+          <li id="Course"><span class="bold">Course:</span> <span class="value">Full Stack Software Development</span></li>
+          <li id="Batch"><span class="bold">Batch:</span> <span class="value">Bootcamp</span></li>
+        </ul>
+      </div>
+    </div>
+  </div>
+
+  <script src="app.js"></script>
+</body>
+</html>

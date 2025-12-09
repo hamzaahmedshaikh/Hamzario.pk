@@ -1,0 +1,65 @@
+body {
+  font-family: "Poppins", sans-serif;
+  background: linear-gradient(135deg, #1e1e2f, #2b5876);
+  color: #fff;
+  margin: 0;
+  padding: 40px 20px;
+}
+
+h1 {
+  text-align: center;
+  font-size: 2.2rem;
+  margin-bottom: 40px;
+  color: #fff;
+}
+
+#mainUIComp {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(280px, 1fr));
+  gap: 25px;
+  max-width: 1200px;
+  margin: auto;
+}
+
+.card {
+  background: rgba(255, 255, 255, 0.08);
+  border-radius: 15px;
+  padding: 20px;
+  border: 1px solid rgba(255,255,255,0.1);
+  transition: 0.3s ease;
+}
+
+.card:hover {
+  transform: translateY(-6px);
+  background: rgba(255, 255, 255, 0.15);
+}
+
+.card h2 {
+  color: #ffcc70;
+  border-left: 4px solid #ffcc70;
+  padding-left: 10px;
+  margin-bottom: 15px;
+}
+
+.item {
+  background: rgba(255,255,255,0.1);
+  border-radius: 10px;
+  padding: 10px 15px;
+  margin-bottom: 10px;
+}
+
+.item b {
+  color: #fff;
+}
+
+.price {
+  float: right;
+  color: #00ffd9;
+  font-weight: bold;
+}
+
+.item small {
+  display: block;
+  color: #ccc;
+  margin-top: 4px;
+}
