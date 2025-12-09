@@ -134,6 +134,39 @@ for (let i = 0; i < formInputs.length; i++) {
   });
 }
 
+// EmailJS form submission
+form.addEventListener("submit", function(e) {
+  e.preventDefault();
+
+  // Disable button during submission
+  formBtn.setAttribute("disabled", "");
+  formBtn.innerHTML = '<ion-icon name="hourglass-outline"></ion-icon><span>Sending...</span>';
+
+  // EmailJS parameters - Replace with your actual keys
+  const serviceID = 'service_tazwfcc';
+  const templateID = 'template_m90h3ga';
+  const publicKey = 'g3y8OaZ0HKA5crpSV';
+
+  emailjs.sendForm(serviceID, templateID, form, publicKey)
+    .then(() => {
+      // Success
+      formBtn.innerHTML = '<ion-icon name="checkmark-outline"></ion-icon><span>Message Sent!</span>';
+      form.reset();
+      setTimeout(() => {
+        formBtn.removeAttribute("disabled");
+        formBtn.innerHTML = '<ion-icon name="paper-plane"></ion-icon><span>Send Message</span>';
+      }, 3000);
+    }, (error) => {
+      // Error
+      console.error('EmailJS error:', error);
+      formBtn.innerHTML = '<ion-icon name="close-outline"></ion-icon><span>Failed to Send</span>';
+      setTimeout(() => {
+        formBtn.removeAttribute("disabled");
+        formBtn.innerHTML = '<ion-icon name="paper-plane"></ion-icon><span>Send Message</span>';
+      }, 3000);
+    });
+});
+
 
 
 // page navigation variables
