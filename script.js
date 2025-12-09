@@ -134,6 +134,8 @@ for (let i = 0; i < formInputs.length; i++) {
   });
 }
 
+
+
 // EmailJS form submission
 form.addEventListener("submit", function(e) {
   e.preventDefault();
