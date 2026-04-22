@@ -29,7 +29,7 @@ export default function About() {
       </section>
 
       <section className="about-gallery">
-        <h3 className="h3 gallery-title">Gallery</h3>
+        <h3 className="h3 gallery-title article-title">Gallery</h3>
         <ul className="gallery-list has-scrollbar">
           <li className="gallery-item">
             <figure className="gallery-img-box">
@@ -50,7 +50,7 @@ export default function About() {
       </section>
 
       <section className="services">
-        <h3 className="h3 service-title">What I'm Doing</h3>
+        <h3 className="h3 service-title article-title">What I'm Doing</h3>
         <ul className="service-list">
           <li className="service-item">
             <div className="service-icon-box">
@@ -79,7 +79,7 @@ export default function About() {
       </section>
 
       <section className="testimonials">
-        <h3 className="h3 testimonials-title">Testimonials</h3>
+        <h3 className="h3 testimonials-title article-title">Testimonials</h3>
         <ul className="testimonials-list has-scrollbar">
           <li className="testimonials-item" onClick={() => openModal('John Doe', "I had a great experience working with Hamza as my web developer freelancer. He was professional, responsive, and delivered high-quality work. I highly recommend his skills.", 'https://i.ibb.co/g3ThPWD/avatar-1.png')}>
             <div className="content-card">
@@ -151,7 +151,7 @@ export default function About() {
       </div>
 
       <section className="clients">
-        <h3 className="h3 clients-title">Clients</h3>
+        <h3 className="h3 clients-title article-title">Clients</h3>
         <ul className="clients-list has-scrollbar">
           <li className="clients-item">
             <a href="#">

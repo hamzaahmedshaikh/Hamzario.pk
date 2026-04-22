@@ -113,7 +113,7 @@ function About() {
                 className: "about-gallery",
                 children: [
                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$OneDrive$2f$Desktop$2f$Hamzario$2e$pk$2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("h3", {
-                        className: "h3 gallery-title",
+                        className: "h3 gallery-title article-title",
                         children: "Gallery"
                     }, void 0, false, {
                         fileName: "[project]/OneDrive/Desktop/Hamzario.pk/app/page.jsx",
@@ -208,7 +208,7 @@ function About() {
                 className: "services",
                 children: [
                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$OneDrive$2f$Desktop$2f$Hamzario$2e$pk$2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("h3", {
-                        className: "h3 service-title",
+                        className: "h3 service-title article-title",
                         children: "What I'm Doing"
                     }, void 0, false, {
                         fileName: "[project]/OneDrive/Desktop/Hamzario.pk/app/page.jsx",
@@ -334,7 +334,7 @@ function About() {
                 className: "testimonials",
                 children: [
                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$OneDrive$2f$Desktop$2f$Hamzario$2e$pk$2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("h3", {
-                        className: "h3 testimonials-title",
+                        className: "h3 testimonials-title article-title",
                         children: "Testimonials"
                     }, void 0, false, {
                         fileName: "[project]/OneDrive/Desktop/Hamzario.pk/app/page.jsx",
@@ -346,19 +346,16 @@ function About() {
                         children: [
                             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$OneDrive$2f$Desktop$2f$Hamzario$2e$pk$2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("li", {
                                 className: "testimonials-item",
-                                onClick: ()=>openModal('Ali Raza', "Hamza completely transformed our web presence. His expertise in the MERN stack is unmatched. He delivered a fast, scalable web app well ahead of our tight deadline.", 'https://ui-avatars.com/api/?name=Ali+Raza&background=random'),
+                                onClick: ()=>openModal('John Doe', "I had a great experience working with Hamza as my web developer freelancer. He was professional, responsive, and delivered high-quality work. I highly recommend his skills.", 'https://i.ibb.co/g3ThPWD/avatar-1.png'),
                                 children: /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$OneDrive$2f$Desktop$2f$Hamzario$2e$pk$2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
                                     className: "content-card",
                                     children: [
                                         /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$OneDrive$2f$Desktop$2f$Hamzario$2e$pk$2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("figure", {
                                             className: "testimonials-avatar-box",
                                             children: /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$OneDrive$2f$Desktop$2f$Hamzario$2e$pk$2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("img", {
-                                                src: "https://ui-avatars.com/api/?name=Ali+Raza&background=random",
-                                                alt: "Ali Raza",
-                                                width: "60",
-                                                style: {
-                                                    borderRadius: '50%'
-                                                }
+                                                src: "https://i.ibb.co/g3ThPWD/avatar-1.png",
+                                                alt: "Your photo",
+                                                width: "60"
                                             }, void 0, false, {
                                                 fileName: "[project]/OneDrive/Desktop/Hamzario.pk/app/page.jsx",
                                                 lineNumber: 87,
@@ -371,7 +368,7 @@ function About() {
                                         }, this),
                                         /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$OneDrive$2f$Desktop$2f$Hamzario$2e$pk$2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("h4", {
                                             className: "h4 testimonials-item-title",
-                                            children: "Ali Raza"
+                                            children: "John Doe"
                                         }, void 0, false, {
                                             fileName: "[project]/OneDrive/Desktop/Hamzario.pk/app/page.jsx",
                                             lineNumber: 89,
@@ -380,7 +377,7 @@ function About() {
                                         /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$OneDrive$2f$Desktop$2f$Hamzario$2e$pk$2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
                                             className: "testimonials-text",
                                             children: /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$OneDrive$2f$Desktop$2f$Hamzario$2e$pk$2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("p", {
-                                                children: "Hamza completely transformed our web presence. His expertise in the MERN stack is unmatched. He delivered a fast, scalable web app well ahead of our tight deadline."
+                                                children: "I had a great experience working with Hamza as my web developer freelancer. He was professional, responsive, and delivered high-quality work. I highly recommend his skills."
                                             }, void 0, false, {
                                                 fileName: "[project]/OneDrive/Desktop/Hamzario.pk/app/page.jsx",
                                                 lineNumber: 91,
@@ -404,19 +401,16 @@ function About() {
                             }, this),
                             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$OneDrive$2f$Desktop$2f$Hamzario$2e$pk$2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("li", {
                                 className: "testimonials-item",
-                                onClick: ()=>openModal('Sarah Khan', "Finding a reliable Next.js developer in Karachi was tough until we found Hamza. His attention to UI/UX and seamless Shopify integration helped us 3x our e-commerce sales.", 'https://ui-avatars.com/api/?name=Sarah+Khan&background=random'),
+                                onClick: ()=>openModal('Jane Smith', "I hired Hamza to work on my website and I was impressed by his expertise, attention to detail, and willingness to go above and beyond to ensure my satisfaction. He is a talented web developer and I highly recommend him.", 'https://i.ibb.co/L9TRtJF/avatar-2.png'),
                                 children: /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$OneDrive$2f$Desktop$2f$Hamzario$2e$pk$2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
                                     className: "content-card",
                                     children: [
                                         /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$OneDrive$2f$Desktop$2f$Hamzario$2e$pk$2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("figure", {
                                             className: "testimonials-avatar-box",
                                             children: /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$OneDrive$2f$Desktop$2f$Hamzario$2e$pk$2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("img", {
-                                                src: "https://ui-avatars.com/api/?name=Sarah+Khan&background=random",
-                                                alt: "Sarah Khan",
-                                                width: "60",
-                                                style: {
-                                                    borderRadius: '50%'
-                                                }
+                                                src: "https://i.ibb.co/L9TRtJF/avatar-2.png",
+                                                alt: "Somebody's photo",
+                                                width: "60"
                                             }, void 0, false, {
                                                 fileName: "[project]/OneDrive/Desktop/Hamzario.pk/app/page.jsx",
                                                 lineNumber: 98,
@@ -429,7 +423,7 @@ function About() {
                                         }, this),
                                         /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$OneDrive$2f$Desktop$2f$Hamzario$2e$pk$2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("h4", {
                                             className: "h4 testimonials-item-title",
-                                            children: "Sarah Khan"
+                                            children: "Jane Smith"
                                         }, void 0, false, {
                                             fileName: "[project]/OneDrive/Desktop/Hamzario.pk/app/page.jsx",
                                             lineNumber: 100,
@@ -438,7 +432,7 @@ function About() {
                                         /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$OneDrive$2f$Desktop$2f$Hamzario$2e$pk$2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
                                             className: "testimonials-text",
                                             children: /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$OneDrive$2f$Desktop$2f$Hamzario$2e$pk$2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("p", {
-                                                children: "Finding a reliable Next.js developer in Karachi was tough until we found Hamza. His attention to UI/UX and seamless Shopify integration helped us 3x our e-commerce sales."
+                                                children: "I hired Hamza to work on my website and I was impressed by his expertise, attention to detail, and willingness to go above and beyond to ensure my satisfaction. He is a talented web developer and I highly recommend him."
                                             }, void 0, false, {
                                                 fileName: "[project]/OneDrive/Desktop/Hamzario.pk/app/page.jsx",
                                                 lineNumber: 102,
@@ -462,19 +456,16 @@ function About() {
                             }, this),
                             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$OneDrive$2f$Desktop$2f$Hamzario$2e$pk$2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("li", {
                                 className: "testimonials-item",
-                                onClick: ()=>openModal('Tariq Mahmood', "Exceptional frontend skills. Hamza translated our Figma designs into pixel-perfect React components and fixed our complex routing issues effortlessly.", 'https://ui-avatars.com/api/?name=Tariq+Mahmood&background=random'),
+                                onClick: ()=>openModal('Sarah Lee', "Hamza is a fantastic web developer freelancer who is knowledgeable, reliable, and easy to work with. He helped me with various web development tasks and exceeded my expectations every time. I highly recommend him to anyone looking for high-quality web development services.", 'https://i.ibb.co/fxSM7Yd/avatar-3.png'),
                                 children: /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$OneDrive$2f$Desktop$2f$Hamzario$2e$pk$2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
                                     className: "content-card",
                                     children: [
                                         /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$OneDrive$2f$Desktop$2f$Hamzario$2e$pk$2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("figure", {
                                             className: "testimonials-avatar-box",
                                             children: /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$OneDrive$2f$Desktop$2f$Hamzario$2e$pk$2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("img", {
-                                                src: "https://ui-avatars.com/api/?name=Tariq+Mahmood&background=random",
-                                                alt: "Tariq Mahmood",
-                                                width: "60",
-                                                style: {
-                                                    borderRadius: '50%'
-                                                }
+                                                src: "https://i.ibb.co/fxSM7Yd/avatar-3.png",
+                                                alt: "Your photo",
+                                                width: "60"
                                             }, void 0, false, {
                                                 fileName: "[project]/OneDrive/Desktop/Hamzario.pk/app/page.jsx",
                                                 lineNumber: 109,
@@ -487,7 +478,7 @@ function About() {
                                         }, this),
                                         /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$OneDrive$2f$Desktop$2f$Hamzario$2e$pk$2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("h4", {
                                             className: "h4 testimonials-item-title",
-                                            children: "Tariq Mahmood"
+                                            children: "Sarah Lee"
                                         }, void 0, false, {
                                             fileName: "[project]/OneDrive/Desktop/Hamzario.pk/app/page.jsx",
                                             lineNumber: 111,
@@ -496,7 +487,7 @@ function About() {
                                         /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$OneDrive$2f$Desktop$2f$Hamzario$2e$pk$2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
                                             className: "testimonials-text",
                                             children: /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$OneDrive$2f$Desktop$2f$Hamzario$2e$pk$2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("p", {
-                                                children: "Exceptional frontend skills. Hamza translated our Figma designs into pixel-perfect React components and fixed our complex routing issues effortlessly."
+                                                children: "Hamza is a fantastic web developer freelancer who is knowledgeable, reliable, and easy to work with. He helped me with various web development tasks and exceeded my expectations every time. I highly recommend him to anyone looking for high-quality web development services."
                                             }, void 0, false, {
                                                 fileName: "[project]/OneDrive/Desktop/Hamzario.pk/app/page.jsx",
                                                 lineNumber: 113,
@@ -517,6 +508,61 @@ function About() {
                                 fileName: "[project]/OneDrive/Desktop/Hamzario.pk/app/page.jsx",
                                 lineNumber: 106,
                                 columnNumber: 11
+                            }, this),
+                            /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$OneDrive$2f$Desktop$2f$Hamzario$2e$pk$2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("li", {
+                                className: "testimonials-item",
+                                onClick: ()=>openModal('Mike Johnson', "Hamza is a highly skilled web developer freelancer who is dedicated, communicative, and delivers top-notch work. He helped me with my website redesign and I couldn't be happier with the results. I would highly recommend him.", 'https://i.ibb.co/1bvGbDT/avatar-4.png'),
+                                children: /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$OneDrive$2f$Desktop$2f$Hamzario$2e$pk$2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
+                                    className: "content-card",
+                                    children: [
+                                        /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$OneDrive$2f$Desktop$2f$Hamzario$2e$pk$2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("figure", {
+                                            className: "testimonials-avatar-box",
+                                            children: /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$OneDrive$2f$Desktop$2f$Hamzario$2e$pk$2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("img", {
+                                                src: "https://i.ibb.co/1bvGbDT/avatar-4.png",
+                                                alt: "Your photo",
+                                                width: "60"
+                                            }, void 0, false, {
+                                                fileName: "[project]/OneDrive/Desktop/Hamzario.pk/app/page.jsx",
+                                                lineNumber: 120,
+                                                columnNumber: 17
+                                            }, this)
+                                        }, void 0, false, {
+                                            fileName: "[project]/OneDrive/Desktop/Hamzario.pk/app/page.jsx",
+                                            lineNumber: 119,
+                                            columnNumber: 15
+                                        }, this),
+                                        /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$OneDrive$2f$Desktop$2f$Hamzario$2e$pk$2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("h4", {
+                                            className: "h4 testimonials-item-title",
+                                            children: "Mike Johnson"
+                                        }, void 0, false, {
+                                            fileName: "[project]/OneDrive/Desktop/Hamzario.pk/app/page.jsx",
+                                            lineNumber: 122,
+                                            columnNumber: 15
+                                        }, this),
+                                        /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$OneDrive$2f$Desktop$2f$Hamzario$2e$pk$2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
+                                            className: "testimonials-text",
+                                            children: /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$OneDrive$2f$Desktop$2f$Hamzario$2e$pk$2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("p", {
+                                                children: "Hamza is a highly skilled web developer freelancer who is dedicated, communicative, and delivers top-notch work. He helped me with my website redesign and I couldn't be happier with the results. I would highly recommend him."
+                                            }, void 0, false, {
+                                                fileName: "[project]/OneDrive/Desktop/Hamzario.pk/app/page.jsx",
+                                                lineNumber: 124,
+                                                columnNumber: 17
+                                            }, this)
+                                        }, void 0, false, {
+                                            fileName: "[project]/OneDrive/Desktop/Hamzario.pk/app/page.jsx",
+                                            lineNumber: 123,
+                                            columnNumber: 15
+                                        }, this)
+                                    ]
+                                }, void 0, true, {
+                                    fileName: "[project]/OneDrive/Desktop/Hamzario.pk/app/page.jsx",
+                                    lineNumber: 118,
+                                    columnNumber: 13
+                                }, this)
+                            }, void 0, false, {
+                                fileName: "[project]/OneDrive/Desktop/Hamzario.pk/app/page.jsx",
+                                lineNumber: 117,
+                                columnNumber: 11
                             }, this)
                         ]
                     }, void 0, true, {
@@ -534,11 +580,11 @@ function About() {
                 className: `modal-container ${modalActive ? 'active' : ''}`,
                 children: [
                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$OneDrive$2f$Desktop$2f$Hamzario$2e$pk$2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
-                        className: `overlay ${modalActive ? 'active' : ''}`,
+                        className: "overlay",
                         onClick: closeModal
                     }, void 0, false, {
                         fileName: "[project]/OneDrive/Desktop/Hamzario.pk/app/page.jsx",
-                        lineNumber: 121,
+                        lineNumber: 133,
                         columnNumber: 9
                     }, this),
                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$OneDrive$2f$Desktop$2f$Hamzario$2e$pk$2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("section", {
@@ -551,12 +597,12 @@ function About() {
                                     name: "close-outline"
                                 }, void 0, false, {
                                     fileName: "[project]/OneDrive/Desktop/Hamzario.pk/app/page.jsx",
-                                    lineNumber: 124,
+                                    lineNumber: 136,
                                     columnNumber: 13
                                 }, this)
                             }, void 0, false, {
                                 fileName: "[project]/OneDrive/Desktop/Hamzario.pk/app/page.jsx",
-                                lineNumber: 123,
+                                lineNumber: 135,
                                 columnNumber: 11
                             }, this),
                             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$OneDrive$2f$Desktop$2f$Hamzario$2e$pk$2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
@@ -570,12 +616,12 @@ function About() {
                                             width: "80"
                                         }, void 0, false, {
                                             fileName: "[project]/OneDrive/Desktop/Hamzario.pk/app/page.jsx",
-                                            lineNumber: 128,
+                                            lineNumber: 140,
                                             columnNumber: 15
                                         }, this)
                                     }, void 0, false, {
                                         fileName: "[project]/OneDrive/Desktop/Hamzario.pk/app/page.jsx",
-                                        lineNumber: 127,
+                                        lineNumber: 139,
                                         columnNumber: 13
                                     }, this),
                                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$OneDrive$2f$Desktop$2f$Hamzario$2e$pk$2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("img", {
@@ -583,13 +629,13 @@ function About() {
                                         alt: "quote icon"
                                     }, void 0, false, {
                                         fileName: "[project]/OneDrive/Desktop/Hamzario.pk/app/page.jsx",
-                                        lineNumber: 130,
+                                        lineNumber: 142,
                                         columnNumber: 13
                                     }, this)
                                 ]
                             }, void 0, true, {
                                 fileName: "[project]/OneDrive/Desktop/Hamzario.pk/app/page.jsx",
-                                lineNumber: 126,
+                                lineNumber: 138,
                                 columnNumber: 11
                             }, this),
                             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$OneDrive$2f$Desktop$2f$Hamzario$2e$pk$2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
@@ -600,7 +646,7 @@ function About() {
                                         children: modalData.title
                                     }, void 0, false, {
                                         fileName: "[project]/OneDrive/Desktop/Hamzario.pk/app/page.jsx",
-                                        lineNumber: 133,
+                                        lineNumber: 145,
                                         columnNumber: 13
                                     }, this),
                                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$OneDrive$2f$Desktop$2f$Hamzario$2e$pk$2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
@@ -609,48 +655,45 @@ function About() {
                                             children: modalData.text
                                         }, void 0, false, {
                                             fileName: "[project]/OneDrive/Desktop/Hamzario.pk/app/page.jsx",
-                                            lineNumber: 135,
+                                            lineNumber: 147,
                                             columnNumber: 15
                                         }, this)
                                     }, void 0, false, {
                                         fileName: "[project]/OneDrive/Desktop/Hamzario.pk/app/page.jsx",
-                                        lineNumber: 134,
+                                        lineNumber: 146,
                                         columnNumber: 13
                                     }, this)
                                 ]
                             }, void 0, true, {
                                 fileName: "[project]/OneDrive/Desktop/Hamzario.pk/app/page.jsx",
-                                lineNumber: 132,
+                                lineNumber: 144,
                                 columnNumber: 11
                             }, this)
                         ]
                     }, void 0, true, {
                         fileName: "[project]/OneDrive/Desktop/Hamzario.pk/app/page.jsx",
-                        lineNumber: 122,
+                        lineNumber: 134,
                         columnNumber: 9
                     }, this)
                 ]
             }, void 0, true, {
                 fileName: "[project]/OneDrive/Desktop/Hamzario.pk/app/page.jsx",
-                lineNumber: 120,
+                lineNumber: 132,
                 columnNumber: 7
             }, this),
             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$OneDrive$2f$Desktop$2f$Hamzario$2e$pk$2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("section", {
                 className: "clients",
                 children: [
                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$OneDrive$2f$Desktop$2f$Hamzario$2e$pk$2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("h3", {
-                        className: "h3 clients-title",
-                        children: "Target Clients & Integrations"
+                        className: "h3 clients-title article-title",
+                        children: "Clients"
                     }, void 0, false, {
                         fileName: "[project]/OneDrive/Desktop/Hamzario.pk/app/page.jsx",
-                        lineNumber: 142,
+                        lineNumber: 154,
                         columnNumber: 9
                     }, this),
                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$OneDrive$2f$Desktop$2f$Hamzario$2e$pk$2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("ul", {
                         className: "clients-list has-scrollbar",
-                        style: {
-                            alignItems: 'center'
-                        },
                         children: [
                             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$OneDrive$2f$Desktop$2f$Hamzario$2e$pk$2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("li", {
                                 className: "clients-item",
@@ -661,17 +704,17 @@ function About() {
                                         alt: "client logo"
                                     }, void 0, false, {
                                         fileName: "[project]/OneDrive/Desktop/Hamzario.pk/app/page.jsx",
-                                        lineNumber: 146,
+                                        lineNumber: 158,
                                         columnNumber: 15
                                     }, this)
                                 }, void 0, false, {
                                     fileName: "[project]/OneDrive/Desktop/Hamzario.pk/app/page.jsx",
-                                    lineNumber: 145,
+                                    lineNumber: 157,
                                     columnNumber: 13
                                 }, this)
                             }, void 0, false, {
                                 fileName: "[project]/OneDrive/Desktop/Hamzario.pk/app/page.jsx",
-                                lineNumber: 144,
+                                lineNumber: 156,
                                 columnNumber: 11
                             }, this),
                             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$OneDrive$2f$Desktop$2f$Hamzario$2e$pk$2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("li", {
@@ -683,17 +726,17 @@ function About() {
                                         alt: "client logo"
                                     }, void 0, false, {
                                         fileName: "[project]/OneDrive/Desktop/Hamzario.pk/app/page.jsx",
-                                        lineNumber: 151,
+                                        lineNumber: 163,
                                         columnNumber: 15
                                     }, this)
                                 }, void 0, false, {
                                     fileName: "[project]/OneDrive/Desktop/Hamzario.pk/app/page.jsx",
-                                    lineNumber: 150,
+                                    lineNumber: 162,
                                     columnNumber: 13
                                 }, this)
                             }, void 0, false, {
                                 fileName: "[project]/OneDrive/Desktop/Hamzario.pk/app/page.jsx",
-                                lineNumber: 149,
+                                lineNumber: 161,
                                 columnNumber: 11
                             }, this),
                             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$OneDrive$2f$Desktop$2f$Hamzario$2e$pk$2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("li", {
@@ -705,17 +748,17 @@ function About() {
                                         alt: "client logo"
                                     }, void 0, false, {
                                         fileName: "[project]/OneDrive/Desktop/Hamzario.pk/app/page.jsx",
-                                        lineNumber: 156,
+                                        lineNumber: 168,
                                         columnNumber: 15
                                     }, this)
                                 }, void 0, false, {
                                     fileName: "[project]/OneDrive/Desktop/Hamzario.pk/app/page.jsx",
-                                    lineNumber: 155,
+                                    lineNumber: 167,
                                     columnNumber: 13
                                 }, this)
                             }, void 0, false, {
                                 fileName: "[project]/OneDrive/Desktop/Hamzario.pk/app/page.jsx",
-                                lineNumber: 154,
+                                lineNumber: 166,
                                 columnNumber: 11
                             }, this),
                             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$OneDrive$2f$Desktop$2f$Hamzario$2e$pk$2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("li", {
@@ -727,17 +770,17 @@ function About() {
                                         alt: "client logo"
                                     }, void 0, false, {
                                         fileName: "[project]/OneDrive/Desktop/Hamzario.pk/app/page.jsx",
-                                        lineNumber: 161,
+                                        lineNumber: 173,
                                         columnNumber: 15
                                     }, this)
                                 }, void 0, false, {
                                     fileName: "[project]/OneDrive/Desktop/Hamzario.pk/app/page.jsx",
-                                    lineNumber: 160,
+                                    lineNumber: 172,
                                     columnNumber: 13
                                 }, this)
                             }, void 0, false, {
                                 fileName: "[project]/OneDrive/Desktop/Hamzario.pk/app/page.jsx",
-                                lineNumber: 159,
+                                lineNumber: 171,
                                 columnNumber: 11
                             }, this),
                             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$OneDrive$2f$Desktop$2f$Hamzario$2e$pk$2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("li", {
@@ -749,17 +792,17 @@ function About() {
                                         alt: "client logo"
                                     }, void 0, false, {
                                         fileName: "[project]/OneDrive/Desktop/Hamzario.pk/app/page.jsx",
-                                        lineNumber: 166,
+                                        lineNumber: 178,
                                         columnNumber: 15
                                     }, this)
                                 }, void 0, false, {
                                     fileName: "[project]/OneDrive/Desktop/Hamzario.pk/app/page.jsx",
-                                    lineNumber: 165,
+                                    lineNumber: 177,
                                     columnNumber: 13
                                 }, this)
                             }, void 0, false, {
                                 fileName: "[project]/OneDrive/Desktop/Hamzario.pk/app/page.jsx",
-                                lineNumber: 164,
+                                lineNumber: 176,
                                 columnNumber: 11
                             }, this),
                             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$OneDrive$2f$Desktop$2f$Hamzario$2e$pk$2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("li", {
@@ -771,29 +814,29 @@ function About() {
                                         alt: "client logo"
                                     }, void 0, false, {
                                         fileName: "[project]/OneDrive/Desktop/Hamzario.pk/app/page.jsx",
-                                        lineNumber: 171,
+                                        lineNumber: 183,
                                         columnNumber: 15
                                     }, this)
                                 }, void 0, false, {
                                     fileName: "[project]/OneDrive/Desktop/Hamzario.pk/app/page.jsx",
-                                    lineNumber: 170,
+                                    lineNumber: 182,
                                     columnNumber: 13
                                 }, this)
                             }, void 0, false, {
                                 fileName: "[project]/OneDrive/Desktop/Hamzario.pk/app/page.jsx",
-                                lineNumber: 169,
+                                lineNumber: 181,
                                 columnNumber: 11
                             }, this)
                         ]
                     }, void 0, true, {
                         fileName: "[project]/OneDrive/Desktop/Hamzario.pk/app/page.jsx",
-                        lineNumber: 143,
+                        lineNumber: 155,
                         columnNumber: 9
                     }, this)
                 ]
             }, void 0, true, {
                 fileName: "[project]/OneDrive/Desktop/Hamzario.pk/app/page.jsx",
-                lineNumber: 141,
+                lineNumber: 153,
                 columnNumber: 7
             }, this)
         ]
