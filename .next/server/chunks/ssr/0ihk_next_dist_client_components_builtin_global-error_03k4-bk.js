@@ -1,3 +1,0 @@
-module.exports=[95209,(a,b,c)=>{let{createClientModuleProxy:d}=a.r(16264);a.n(d("[project]/OneDrive/Desktop/Hamzario.pk/node_modules/next/dist/client/components/builtin/global-error.js <module evaluation>"))},69754,(a,b,c)=>{let{createClientModuleProxy:d}=a.r(16264);a.n(d("[project]/OneDrive/Desktop/Hamzario.pk/node_modules/next/dist/client/components/builtin/global-error.js"))},20375,a=>{"use strict";a.i(95209);var b=a.i(69754);a.n(b)},40109,a=>{a.n(a.i(20375))}];
-
-//# sourceMappingURL=0ihk_next_dist_client_components_builtin_global-error_03k4-bk.js.map

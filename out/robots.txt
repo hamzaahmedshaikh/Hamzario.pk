@@ -1,4 +1,0 @@
-User-agent: *
-Allow: /
-
-Sitemap: https://hamzario.pk/sitemap.xml
