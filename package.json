@@ -1,0 +1,27 @@
+{
+  "name": "hamzario.pk",
+  "version": "1.0.0",
+  "description": "A modern, responsive personal portfolio website showcasing my skills, projects, and experience as a Full Stack Web Developer.",
+  "main": "script.js",
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hamzaahmedshaikh/Hamzario.pk.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/hamzaahmedshaikh/Hamzario.pk/issues"
+  },
+  "homepage": "https://github.com/hamzaahmedshaikh/Hamzario.pk#readme",
+  "dependencies": {
+    "next": "^16.2.4",
+    "react": "^19.2.5",
+    "react-dom": "^19.2.5"
+  }
+}

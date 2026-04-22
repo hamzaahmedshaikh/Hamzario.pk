@@ -1,0 +1,13 @@
+var R=require("../../chunks/ssr/[turbopack]_runtime.js")("server/app/portfolio/page.js")
+R.c("server/chunks/ssr/[root-of-the-server]__04zdsav._.js")
+R.c("server/chunks/ssr/0ihk_next_dist_esm_build_templates_app-page_0ard5oj.js")
+R.c("server/chunks/ssr/[root-of-the-server]__0j4cv_.._.js")
+R.c("server/chunks/ssr/[root-of-the-server]__0mrkrc5._.js")
+R.c("server/chunks/ssr/OneDrive_Desktop_Hamzario_pk_0rmoe9x._.js")
+R.c("server/chunks/ssr/0ihk_next_dist_client_components_0iibh3t._.js")
+R.c("server/chunks/ssr/0ihk_next_dist_client_components_builtin_forbidden_0ne0du_.js")
+R.c("server/chunks/ssr/0ihk_next_dist_client_components_builtin_unauthorized_0h3dq8x.js")
+R.c("server/chunks/ssr/0ihk_next_dist_client_components_builtin_global-error_03k4-bk.js")
+R.c("server/chunks/ssr/03ci_Desktop_Hamzario_pk__next-internal_server_app_portfolio_page_actions_05f3084.js")
+R.m(42580)
+module.exports=R.m(42580).exports
