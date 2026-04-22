@@ -1901,3 +1901,59 @@ textarea.form-input::-webkit-resizer { display: none; }
   .timeline-text { max-width: 700px; }
 
 }
+
+/*-----------------------------------*\
+  #GALLERY
+\*-----------------------------------*/
+
+.about-gallery { margin-bottom: 25px; }
+
+.gallery-title { margin-bottom: 20px; }
+
+.gallery-list {
+  display: flex;
+  justify-content: flex-start;
+  align-items: flex-start;
+  gap: 15px;
+  margin: 0 -15px;
+  padding: 0 15px;
+  overflow-x: auto;
+  scroll-behavior: smooth;
+  overscroll-behavior-inline: contain;
+  scroll-snap-type: inline mandatory;
+  padding-bottom: 10px;
+}
+
+.gallery-list::-webkit-scrollbar { display: none; }
+
+.gallery-item {
+  min-width: 100%;
+  scroll-snap-align: center;
+}
+
+.gallery-img-box {
+  position: relative;
+  width: 100%;
+  height: 250px;
+  border-radius: 14px;
+  overflow: hidden;
+  box-shadow: var(--shadow-2);
+}
+
+.gallery-img-box img {
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+  transition: var(--transition-1);
+}
+
+.gallery-img-box:hover img { transform: scale(1.1); }
+
+/* Responsive tweaks for gallery */
+@media (min-width: 580px) {
+  .gallery-item { min-width: calc(50% - 7.5px); }
+}
+
+@media (min-width: 1024px) {
+  .gallery-item { min-width: calc(33.33% - 10px); }
+}
