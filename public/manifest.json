@@ -1,0 +1,21 @@
+{
+  "name": "Hamzario | Hamza Ahmed Shaikh Portfolio",
+  "short_name": "Hamzario",
+  "description": "Hamza Ahmed Shaikh - Expert Frontend and MERN Stack Developer",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#121212",
+  "theme_color": "#1e1e1f",
+  "icons": [
+    {
+      "src": "/PFP.jpg",
+      "sizes": "192x192",
+      "type": "image/jpeg"
+    },
+    {
+      "src": "/PFP.jpg",
+      "sizes": "512x512",
+      "type": "image/jpeg"
+    }
+  ]
+}

@@ -28,84 +28,84 @@ const projects = [
     title: "Parallax Scrolling",
     category: "Web development",
     image: "https://i.ibb.co/PMD3T7G/Parallax-scroll-animation-1.png",
-    link: "https://hamzario.pk/scroll/"
+    link: "https://hamzaahmedshaikh.github.io/scroll/"
   },
   {
     id: 5,
     title: "Bootstrap 5 Navbar",
     category: "Web development",
     image: "https://i.ibb.co/0tfbJMv/Animated-Tab-Bar.png",
-    link: "https://hamzario.pk/tab-bar/"
+    link: "https://hamzaahmedshaikh.github.io/tab-bar/"
   },
   {
     id: 6,
     title: "AI Chess Game",
     category: "Games",
     image: "https://i.ibb.co/NVbybCP/Hamza-Chess-Game.png",
-    link: "https://hamzario.pk/Chess/"
+    link: "https://hamzaahmedshaikh.github.io/Chess/"
   },
   {
     id: 7,
     title: "Calculator",
     category: "Web-Based Applications",
     image: "https://i.ibb.co/LtQfCrz/Hamza-Ahmed-Calculator-1.png",
-    link: "https://hamzario.pk/calculator/"
+    link: "https://hamzaahmedshaikh.github.io/calculator/"
   },
   {
     id: 8,
     title: "3D Rubik's Cube",
     category: "Games",
     image: "https://i.ibb.co/m0f2mKT/Cube.png",
-    link: "https://hamzario.pk/Cube/"
+    link: "https://hamzaahmedshaikh.github.io/Cube/"
   },
   {
     id: 9,
     title: "Tower Blocks",
     category: "Games",
     image: "https://i.ibb.co/4Vg8HbL/Screenshot-20230430-034425.jpg",
-    link: "https://hamzario.pk/tower-blocks"
+    link: "https://hamzaahmedshaikh.github.io/tower-blocks/"
   },
   {
     id: 10,
     title: "Login-Signup Form",
     category: "Web development",
     image: "https://i.ibb.co/Sy9g1tr/Log-In-Sign-Up.png",
-    link: "https://hamzario.pk/login/"
+    link: "https://hamzaahmedshaikh.github.io/login/"
   },
   {
     id: 11,
     title: "Music Player",
     category: "Web-Based Applications",
     image: "https://i.ibb.co/stjrFrv/Music-Player-Hamza-Ahmed.png",
-    link: "https://hamzario.pk/music-player/"
+    link: "https://hamzaahmedshaikh.github.io/music-player/"
   },
   {
     id: 12,
     title: "Student ID Card Generator",
     category: "Web development",
     image: "https://i.ibb.co/1YjnrDc7/Capture.png",
-    link: "https://hamzario.pk/student-id-card/"
+    link: "https://hamzaahmedshaikh.github.io/Student-ID-card/"
   },
   {
     id: 13,
     title: "Food Menu App",
     category: "Web development",
     image: "https://i.ibb.co/Kp9dHsVL/Capture.jpg",
-    link: "https://hamzario.pk/food-menu-app/"
+    link: "https://hamzaahmedshaikh.github.io/Food-Menu-App/"
   },
   {
     id: 14,
     title: "Data Cards",
     category: "Web development",
     image: "https://i.ibb.co/VWVMqzFJ/Capture.png",
-    link: "https://hamzario.pk/show-data-in-cards/"
+    link: "https://hamzaahmedshaikh.github.io/Show-Data-In-Cards/"
   },
   {
     id: 15,
     title: "Quiz App",
     category: "Web-Based Applications",
     image: "https://i.ibb.co/LX3fcKbc/Capture.png",
-    link: "https://hamzario.pk/quiz-web-based-app/"
+    link: "https://hamzaahmedshaikh.github.io/quiz-web-based-app/"
   }
 ];
 

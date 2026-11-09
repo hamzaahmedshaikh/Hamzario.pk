@@ -34,11 +34,11 @@ export default function Sidebar() {
           </li>
           <li className="contact-item">
             <div className="icon-box">
-              <ion-icon name="phone-portrait-outline"></ion-icon>
+              <ion-icon name="logo-instagram"></ion-icon>
             </div>
             <div className="contact-info">
-              <p className="contact-title">Phone</p>
-              <a href="tel:+923153437122" className="contact-link">+92 (315) 343-7122</a>
+              <p className="contact-title">Instagram</p>
+              <a href="https://www.instagram.com/thatshamzaahmed" target="_blank" rel="noopener noreferrer" className="contact-link">@thatshamzaahmed</a>
             </div>
           </li>
           <li className="contact-item">
@@ -63,13 +63,18 @@ export default function Sidebar() {
         <div className="separator"></div>
         <ul className="social-list">
           <li className="social-item">
-            <a href="https://github.com/hamzaahmedshaikh" className="social-link" aria-label="Hamza Ahmed Shaikh GitHub Profile">
+            <a href="https://github.com/hamzaahmedshaikh" target="_blank" rel="noopener noreferrer" className="social-link" aria-label="Hamza Ahmed Shaikh GitHub Profile">
               <ion-icon name="logo-github"></ion-icon>
             </a>
           </li>
           <li className="social-item">
-            <a href="https://twitter.com/hamzaahmedshaikh" className="social-link" aria-label="Hamza Ahmed Shaikh Twitter Profile">
+            <a href="https://x.com/hamzariopk" target="_blank" rel="noopener noreferrer" className="social-link" aria-label="Hamza Ahmed Shaikh Twitter Profile">
               <ion-icon name="logo-twitter"></ion-icon>
+            </a>
+          </li>
+          <li className="social-item">
+            <a href="https://www.instagram.com/thatshamzaahmed" target="_blank" rel="noopener noreferrer" className="social-link" aria-label="Hamza Ahmed Shaikh Instagram Profile">
+              <ion-icon name="logo-instagram"></ion-icon>
             </a>
           </li>
           <li className="social-item">

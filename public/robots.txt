@@ -2,3 +2,4 @@ User-agent: *
 Allow: /
 
 Sitemap: https://hamzario.pk/sitemap.xml
+Host: https://hamzario.pk
