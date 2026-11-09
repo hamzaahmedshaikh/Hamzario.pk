@@ -8,11 +8,11 @@ export default function Sidebar() {
     <aside className={`sidebar ${isActive ? 'active' : ''}`} data-sidebar>
       <div className="sidebar-info">
         <figure className="avatar-box">
-          <img src="/PFP.jpg" alt="Hamza Ahmed Shaikh" />
+          <img src="/PFP.jpg" alt="Hamza Ahmed Shaikh - Full Stack Web Developer" />
         </figure>
         <div className="info-content">
           <h1 className="name" title="Hamza Ahmed Shaikh">Hamza Ahmed Shaikh</h1>
-          <p className="title">Mern Stack Web Developer</p>
+          <p className="title">Full Stack Web Developer</p>
         </div>
         <button className="info_more-btn" onClick={() => setIsActive(!isActive)} data-sidebar-btn>
           <span>Show Contacts</span>

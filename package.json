@@ -1,8 +1,8 @@
 {
   "name": "hamzario.pk",
   "version": "1.0.0",
-  "description": "A modern, responsive personal portfolio website showcasing my skills, projects, and experience as a Full Stack Web Developer.",
-  "main": "script.js",
+  "description": "Official portfolio of Hamza Ahmed Shaikh (Hamzario) - Expert Full Stack Web Developer and MERN Stack Engineer from Karachi, Pakistan.",
+  "main": "next.config.js",
   "scripts": {
     "dev": "next dev",
     "build": "next build",
@@ -12,13 +12,27 @@
     "type": "git",
     "url": "git+https://github.com/hamzaahmedshaikh/Hamzario.pk.git"
   },
-  "keywords": [],
-  "author": "",
-  "license": "ISC",
+  "keywords": [
+    "hamzario",
+    "hamza-ahmed-shaikh",
+    "hamzariopk",
+    "thatshamzaahmed",
+    "full-stack-web-developer",
+    "mern-stack-developer",
+    "react-developer",
+    "nextjs-developer",
+    "nodejs-developer",
+    "karachi-web-developer",
+    "pakistan-web-developer",
+    "shopify-developer",
+    "portfolio"
+  ],
+  "author": "Hamza Ahmed Shaikh <mrhamzahmedshaikh@gmail.com> (https://hamzario.pk)",
+  "license": "MIT",
   "bugs": {
     "url": "https://github.com/hamzaahmedshaikh/Hamzario.pk/issues"
   },
-  "homepage": "https://github.com/hamzaahmedshaikh/Hamzario.pk#readme",
+  "homepage": "https://hamzario.pk",
   "dependencies": {
     "next": "^16.2.4",
     "react": "^19.2.5",

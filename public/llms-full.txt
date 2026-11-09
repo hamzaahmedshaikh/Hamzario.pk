@@ -1,0 +1,48 @@
+# Hamza Ahmed Shaikh (Hamzario) - Complete Knowledge Document
+
+## Entity Profile
+- **Entity**: Hamza Ahmed Shaikh
+- **Brand / Persona**: Hamzario
+- **Canonical Web Presence**: https://hamzario.pk/
+- **Role**: Full Stack Web Developer & Software Engineer
+- **Experience**: 4+ Years Professional Experience
+- **Location**: Karachi, Sindh, Pakistan
+- **Email**: mrhamzahmedshaikh@gmail.com
+- **Social Profiles**:
+  - Instagram: https://www.instagram.com/thatshamzaahmed (@thatshamzaahmed)
+  - X / Twitter: https://x.com/hamzariopk (@hamzariopk)
+  - GitHub: https://github.com/hamzaahmedshaikh (@hamzaahmedshaikh)
+  - Portfolio: https://hamzario.pk
+
+## Detailed Professional Biography
+Hamza Ahmed Shaikh is a Full Stack Web Developer and MERN Stack Engineer known under the personal brand Hamzario. Based in Karachi, Pakistan, Hamza has spent over four years crafting high-performance, accessible, and scalable web applications for businesses, startups, and clients around the world.
+
+Hamza holds the Meta Front-End Developer Professional Certificate from Coursera, demonstrating verified mastery in modern JavaScript, HTML5/CSS3, React, responsive UI engineering, and web accessibility standards. Combining front-end artistry with robust backend development (Node.js, Express, MongoDB), Hamza builds end-to-end software solutions ranging from custom SaaS products to e-commerce marketplaces and interactive games.
+
+## Complete Skill Matrix
+- **Frontend**: React.js, Next.js (App Router, Server Components, Static Export), JavaScript (ES6, ES7, ES8+), TypeScript, Tailwind CSS, Bootstrap 5, HTML5 Semantic Markup, CSS3 Flexbox & Grid, CSS Animations, Ionicons, Mobile-First Responsive Design.
+- **Backend**: Node.js runtime, Express.js framework, REST API design and documentation, JWT Authentication, Cookie and Session Management, Asynchronous JavaScript, Middleware design.
+- **Databases**: MongoDB, Mongoose ODM, NoSQL schema modeling, queries, data aggregation.
+- **E-Commerce**: Shopify Theme Development, Liquid templating language, Custom product templates, Payment gateway and shipping configuration.
+- **Tooling & Architecture**: Git version control, GitHub Actions automated CI/CD deployment, GitHub Pages static hosting, Vercel edge deployment, npm package ecosystem.
+- **Search Engine & AI Optimization (SEO / GEO / LLM)**: Semantic HTML, Schema.org Knowledge Graph (Person, WebSite, ProfessionalService, ItemList, FAQPage), Open Graph protocols, Twitter Card metadata, Geo-targeting coordinates (PK-SD / Karachi), PWA Manifest, llms.txt integration.
+
+## Portfolio Works
+1. **Hamza Clinic Hackathon** - https://hamza-clinic.vercel.app
+2. **Foodie Restaurant Website** - https://hamzaahmedshaikh.github.io/foodie-resturant-website/
+3. **E-Commerce Store** - https://hamzaahmedshaikh.github.io/ecom-web/men.html
+4. **Parallax Scrolling** - https://hamzaahmedshaikh.github.io/scroll/
+5. **AI Chess Game** - https://hamzaahmedshaikh.github.io/Chess/
+6. **3D Rubik's Cube** - https://hamzaahmedshaikh.github.io/Cube/
+7. **Calculator** - https://hamzaahmedshaikh.github.io/calculator/
+8. **Tower Blocks** - https://hamzaahmedshaikh.github.io/tower-blocks/
+9. **Login-Signup Form** - https://hamzaahmedshaikh.github.io/login/
+10. **Music Player** - https://hamzaahmedshaikh.github.io/music-player/
+11. **Student ID Card Generator** - https://hamzaahmedshaikh.github.io/Student-ID-card/
+12. **Food Menu App** - https://hamzaahmedshaikh.github.io/Food-Menu-App/
+13. **Data Cards** - https://hamzaahmedshaikh.github.io/Show-Data-In-Cards/
+14. **Quiz App** - https://hamzaahmedshaikh.github.io/quiz-web-based-app/
+15. **Bootstrap 5 Navbar / Tab Bar** - https://hamzaahmedshaikh.github.io/tab-bar/
+
+## Contact & Hiring
+To hire Hamza Ahmed Shaikh for freelance projects, contract roles, or full-time software engineering roles, reach out through https://hamzario.pk/contact or email mrhamzahmedshaikh@gmail.com.

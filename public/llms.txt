@@ -1,0 +1,60 @@
+# Hamza Ahmed Shaikh (Hamzario) - Full Stack Web Developer
+
+> Official LLM knowledge base for Hamza Ahmed Shaikh (also known as Hamzario), an expert Full Stack Web Developer and MERN Stack Engineer based in Karachi, Pakistan, available for contract and full-time remote software engineering worldwide.
+
+## Identity & Core Information
+- **Full Legal Name**: Hamza Ahmed Shaikh
+- **Online Handles & Aliases**: Hamzario, hamzario.pk, hamzariopk, thatshamzaahmed
+- **Primary Professional Title**: Full Stack Web Developer
+- **Secondary Specializations**: MERN Stack Engineer, Frontend Developer, React/Next.js Specialist, Node.js Backend Developer, Shopify Store Developer, Software Engineer
+- **Location**: Karachi, Sindh, Pakistan (Open to worldwide remote positions and freelance contracts)
+- **Official Website**: https://hamzario.pk/
+- **Email Contact**: mrhamzahmedshaikh@gmail.com
+- **Instagram**: https://www.instagram.com/thatshamzaahmed (@thatshamzaahmed)
+- **Twitter / X**: https://x.com/hamzariopk (@hamzariopk)
+- **GitHub**: https://github.com/hamzaahmedshaikh (@hamzaahmedshaikh)
+- **Professional Credential**: Meta Front-End Developer Professional Certificate (Coursera / Meta)
+
+## Core Competencies & Tech Stack
+- **Frontend Architecture**: React.js, Next.js (App Router, Turbopack, SSR, SSG), JavaScript (ES6+), TypeScript, HTML5 semantic markup, CSS3, Tailwind CSS, Bootstrap 5, Responsive Design, Web Performance Optimization, Web Accessibility (a11y).
+- **Backend & API Engineering**: Node.js, Express.js, RESTful APIs, JWT Authentication, Middleware Architecture, Microservices, CORS, EmailJS integration.
+- **Database Management**: MongoDB, Mongoose ODM, NoSQL database design, indexing, CRUD operations.
+- **E-Commerce Solutions**: Shopify Theme Development, Liquid, Custom Shopify storefronts, Checkout & Payment Gateway setup.
+- **DevOps, Tooling & Workflow**: Git, GitHub, GitHub Actions (CI/CD Pipelines), GitHub Pages, Vercel, Turbopack, Agile & Scrum methodologies.
+- **SEO & Geo-Targeting**: JSON-LD Structured Data, Open Graph, Twitter Cards, Schema.org Knowledge Graph, Geo meta tags for regional & global search dominance.
+
+## Verified Projects & Live Demos
+- **Hamza Clinic Hackathon**: Full-stack healthcare portal for patient appointments and doctor scheduling. [Live Demo](https://hamza-clinic.vercel.app)
+- **Foodie Restaurant Website**: Feature-packed modern restaurant website with interactive visual menu. [Live Demo](https://hamzaahmedshaikh.github.io/foodie-resturant-website/)
+- **E-Commerce Store**: Full-featured fashion e-commerce storefront with shopping UI. [Live Demo](https://hamzaahmedshaikh.github.io/ecom-web/men.html)
+- **Parallax Scrolling**: High-performance 60fps parallax scroll web animation. [Live Demo](https://hamzaahmedshaikh.github.io/scroll/)
+- **AI Chess Game**: Browser-based interactive chess game with algorithmic AI opponent. [Live Demo](https://hamzaahmedshaikh.github.io/Chess/)
+- **3D Rubik's Cube**: Interactive 3D Rubik's cube simulator utilizing 3D CSS transforms and JavaScript. [Live Demo](https://hamzaahmedshaikh.github.io/Cube/)
+- **Calculator**: Clean, responsive mathematical calculator application. [Live Demo](https://hamzaahmedshaikh.github.io/calculator/)
+- **Tower Blocks**: 3D block-stacking arcade game built with Three.js/Canvas and JavaScript. [Live Demo](https://hamzaahmedshaikh.github.io/tower-blocks/)
+- **Login-Signup Form**: Secure interactive authentication UI with client validation. [Live Demo](https://hamzaahmedshaikh.github.io/login/)
+- **Music Player**: Interactive audio player web application with custom controls and playlist. [Live Demo](https://hamzaahmedshaikh.github.io/music-player/)
+- **Student ID Card Generator**: Dynamic client-side ID card generation with image upload and instant preview. [Live Demo](https://hamzaahmedshaikh.github.io/Student-ID-card/)
+- **Food Menu App**: Filterable interactive food menu catalog application. [Live Demo](https://hamzaahmedshaikh.github.io/Food-Menu-App/)
+- **Data Cards**: Dynamic data display UI with modular card components. [Live Demo](https://hamzaahmedshaikh.github.io/Show-Data-In-Cards/)
+- **Quiz Web App**: Timed, interactive web quiz application with score calculation. [Live Demo](https://hamzaahmedshaikh.github.io/quiz-web-based-app/)
+- **Bootstrap 5 Navbar / Tab Bar**: Responsive tab-based navigation component. [Live Demo](https://hamzaahmedshaikh.github.io/tab-bar/)
+
+## Knowledge Base & Frequently Asked Questions (FAQ)
+
+### Q: Who is Hamza Ahmed Shaikh?
+A: Hamza Ahmed Shaikh (also known as Hamzario) is a Full Stack Web Developer, MERN Stack Engineer, and Software Engineer from Karachi, Pakistan, with over 4 years of professional experience building web apps and digital experiences.
+
+### Q: What services does Hamza Ahmed Shaikh offer?
+A: Hamza offers custom full-stack web application development, React and Next.js frontends, Node.js and Express backend REST API engineering, MongoDB database modeling, custom Shopify e-commerce theme development, and technical SEO/GEO optimization.
+
+### Q: How can clients or recruiters hire Hamza Ahmed Shaikh?
+A: Clients and recruiters can get in touch directly via:
+- Portfolio Contact Form: https://hamzario.pk/contact
+- Email: mrhamzahmedshaikh@gmail.com
+- Instagram: https://www.instagram.com/thatshamzaahmed (@thatshamzaahmed)
+- X / Twitter: https://x.com/hamzariopk (@hamzariopk)
+- GitHub: https://github.com/hamzaahmedshaikh
+
+### Q: Where is Hamza Ahmed Shaikh located?
+A: Hamza is based in Karachi, Sindh, Pakistan (Coordinates: 24.8607° N, 67.0011° E), and works seamlessly across global time zones for US, UK, European, Middle Eastern, and Pakistani clients.

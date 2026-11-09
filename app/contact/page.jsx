@@ -17,12 +17,12 @@ export default function Contact() {
       .sendForm('service_tazwfcc', 'template_m90h3ga', formRef.current, 'g3y8OaZ0HKA5crpSV')
       .then(
         (result) => {
-          setSuccessMsg("Message sent successfully!");
+          setSuccessMsg("Message sent successfully! Hamza will get back to you shortly.");
           setIsSubmitting(false);
           formRef.current.reset();
         },
         (error) => {
-          setErrorMsg("An error occurred, Please try again later.");
+          setErrorMsg("An error occurred. Please try again or reach out directly at mrhamzahmedshaikh@gmail.com.");
           setIsSubmitting(false);
         }
       );
@@ -34,6 +34,12 @@ export default function Contact() {
         <h2 className="h2 article-title">Contact</h2>
       </header>
 
+      <section className="contact-intro" style={{ marginBottom: '25px' }}>
+        <p style={{ color: 'var(--light-gray)', fontSize: 'var(--fs-6)', lineHeight: '1.6' }}>
+          Have a project in mind, looking to hire a <strong>Full Stack Web Developer</strong>, or want to discuss a software engineering opportunity? Reach out via the form below, email me at <a href="mailto:mrhamzahmedshaikh@gmail.com" style={{ color: 'var(--vegas-gold)', textDecoration: 'underline' }}>mrhamzahmedshaikh@gmail.com</a>, or message me directly on Instagram <a href="https://www.instagram.com/thatshamzaahmed" target="_blank" rel="noopener noreferrer" style={{ color: 'var(--vegas-gold)', textDecoration: 'underline' }}>@thatshamzaahmed</a> and Twitter/X <a href="https://x.com/hamzariopk" target="_blank" rel="noopener noreferrer" style={{ color: 'var(--vegas-gold)', textDecoration: 'underline' }}>@hamzariopk</a>.
+        </p>
+      </section>
+
       <section className="mapbox" data-mapbox>
         <figure>
           <iframe
@@ -41,7 +47,7 @@ export default function Contact() {
             width="400"
             height="300"
             loading="lazy"
-            title="Google Map"
+            title="Hamza Ahmed Shaikh - Location Karachi Pakistan"
           ></iframe>
         </figure>
       </section>
@@ -55,7 +61,7 @@ export default function Contact() {
             <input type="text" name="user_name" className="form-input" placeholder="Full name" required />
             <input type="email" name="user_email" className="form-input" placeholder="Email address" required />
           </div>
-          <textarea name="message" className="form-input" placeholder="Your Message" required></textarea>
+          <textarea name="message" className="form-input" placeholder="Your Message / Project Details" required></textarea>
           <button className="form-btn" type="submit" disabled={isSubmitting}>
             <ion-icon name="paper-plane"></ion-icon>
             <span>{isSubmitting ? 'Sending...' : 'Send Message'}</span>

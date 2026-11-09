@@ -4,11 +4,15 @@
   <url>
     <loc>https://hamzario.pk/</loc>
     <lastmod>2026-11-09</lastmod>
-    <changefreq>weekly</changefreq>
+    <changefreq>daily</changefreq>
     <priority>1.0</priority>
     <image:image>
       <image:loc>https://hamzario.pk/PFP.jpg</image:loc>
-      <image:title>Hamza Ahmed Shaikh - Frontend and MERN Developer</image:title>
+      <image:title>Hamza Ahmed Shaikh - Full Stack Web Developer</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://hamzario.pk/hamza-ahmed-shaikh-1.jpg</image:loc>
+      <image:title>Hamza Ahmed Shaikh - MERN Stack Developer Karachi</image:title>
     </image:image>
   </url>
   <url>
@@ -20,13 +24,19 @@
   <url>
     <loc>https://hamzario.pk/resume</loc>
     <lastmod>2026-11-09</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.8</priority>
+    <changefreq>weekly</changefreq>
+    <priority>0.85</priority>
   </url>
   <url>
     <loc>https://hamzario.pk/contact</loc>
     <lastmod>2026-11-09</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://hamzario.pk/llms.txt</loc>
+    <lastmod>2026-11-09</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
   </url>
 </urlset>
